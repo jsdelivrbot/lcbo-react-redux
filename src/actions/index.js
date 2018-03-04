@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = '123';
+const API_KEY = 'MDphMzVmZTQ1Mi0xY2I1LTExZTgtYTVmZi1kN2ZiZTZhMmIyMDc6ejY1SUZmR1dtS0lONktZZHQ5VXk1enpyQU9JU004NWVBSkJQ';
 
 const ROOT_URL = 'http://lcboapi.com/products';
 
