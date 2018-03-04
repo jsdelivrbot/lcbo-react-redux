@@ -1,8 +1,8 @@
 import axios from 'axios';
 
-const API_KEY = 'MDphMzVmZTQ1Mi0xY2I1LTExZTgtYTVmZi1kN2ZiZTZhMmIyMDc6ejY1SUZmR1dtS0lONktZZHQ5VXk1enpyQU9JU004NWVBSkJQ';
+const API_KEY = 'MDo2NDM0ZTAwNi0xZjlmLTExZTgtYmQ5MS02MzNkYjRkMmVjNDA6SzV0cnhTQVVhVlltVURsVVhldVpJc0N5UW05QUk1cWR0eTho';
 
-const ROOT_URL = 'http://lcboapi.com/products';
+const ROOT_URL = 'https://lcboapi.com/products';
 
 export const FETCH_ALCOHOL_CHOICES = 'FETCH_ALCOHOL_CHOICES';
 export const FETCH_ALCOHOL_CHOICES_FAILED = 'FETCH_ALCOHOL_CHOICES_FAILED';
